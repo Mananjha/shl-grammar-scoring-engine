@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+scikit-learn
+lightgbm
+matplotlib
+seaborn
+tqdm
+librosa
+soundfile
+torch
+transformers
+sentence-transformers
+faster-whisper
+language_tool_python
