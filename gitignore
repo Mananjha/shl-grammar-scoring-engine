@@ -1,0 +1,22 @@
+# Competition data must never be published (competition rules)
+*.wav
+*.mp3
+*.flac
+train.csv
+test.csv
+sample_submission.csv
+Dataset_Final/
+audio/
+
+# Generated files
+cache/
+*.pkl
+*.npy
+*.json
+submission*.csv
+results_summary.csv
+
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/
